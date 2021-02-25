@@ -1,5 +1,5 @@
 # Azure DevOps Demo Generator
-
+[![Build Status](https://dev.azure.com/Ipspecialist/SpaceGamewebapp/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Ipspecialist/SpaceGamewebapp/_build/latest?definitionId=1&branchName=master)
    [![Build status](https://vstsdemodata.visualstudio.com/VSTSDemoGenerator/_apis/build/status/VSTSDemoGenerator-Prod)](https://vstsdemodata.visualstudio.com/VSTSDemoGenerator/_build/latest?definitionId=76)
 
 [![Release status](https://vsrm.dev.azure.com/vstsdemodata/_apis/public/Release/badge/89b9b739-9a1c-4739-8aae-6a8a1eb67ee7/2/4)](https://vsrm.dev.azure.com/vstsdemodata/_apis/public/Release/badge/89b9b739-9a1c-4739-8aae-6a8a1eb67ee7/2/4)
